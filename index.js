@@ -25,7 +25,7 @@ function handleclick()
     //var buttonInnerHTML=this.innerHTML;
     switch(key)
     {
-        case "f":
+        case "w":
             var audio=new Audio('sounds/tom-1.mp3');
             audio.play();
             break;
